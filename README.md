@@ -3,7 +3,7 @@ Google Colab notebook with explanation video
 
 # Detection-Of-Pneumonia-From-Chest-X-ray-Images
 
-This notebook detectss Pneumonia disease using CNN.
+This notebook detects Pneumonia disease using CNN.
 
 ## 📂 Files
 - Untitled9(6).ipynb
