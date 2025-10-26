@@ -7,6 +7,7 @@ This notebook detects Pneumonia disease using CNN.
 
 ## 📂 Files
 - Untitled9(6).ipynb
+- Detection OF Pneumonia From Chest X-ray Images.pdf
 
 ## ▶️ Open in Google Colab
 [Open in Colab](https://colab.research.google.com/github/katayoontech-spec/Detection-Of-Pneumonia-From-Chest-X-ray-Images/blob/main/Untitled9%20(6).ipynb)
